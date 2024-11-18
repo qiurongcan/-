@@ -1,0 +1,3258 @@
+[
+    {
+        "en_name": "BEIJING",
+        "code": "530",
+        "name": "北京",
+        "type": "MUNICIPALITY",
+        "delete": false,
+        "sublist": [
+            {
+                "en_name": "BEIJING",
+                "code": "530",
+                "name": "北京",
+                "type": "MUNICIPALITY",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Changping",
+                "code": "2013",
+                "name": "昌平区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "CHAOYANGQU",
+                "code": "2006",
+                "name": "朝阳区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Daxing",
+                "code": "2012",
+                "name": "大兴区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Dongcheng",
+                "code": "2001",
+                "name": "东城区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Fangshan",
+                "code": "2011",
+                "name": "房山区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Fengtai",
+                "code": "2007",
+                "name": "丰台区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Haidian",
+                "code": "2005",
+                "name": "海淀区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Huairou",
+                "code": "2014",
+                "name": "怀柔区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Mentougou",
+                "code": "2016",
+                "name": "门头沟区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Miyun",
+                "code": "2017",
+                "name": "密云区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Pinggu",
+                "code": "2015",
+                "name": "平谷区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Shijingshan",
+                "code": "2008",
+                "name": "石景山区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Shunyi",
+                "code": "2010",
+                "name": "顺义区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Tongzhou",
+                "code": "2009",
+                "name": "通州区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Xicheng",
+                "code": "2002",
+                "name": "西城区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Yanqing",
+                "code": "2018",
+                "name": "延庆区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            }
+        ]
+    },
+    {
+        "en_name": "SHANGHAI",
+        "code": "538",
+        "name": "上海",
+        "type": "MUNICIPALITY",
+        "delete": false,
+        "sublist": [
+            {
+                "en_name": "SHANGHAI",
+                "code": "538",
+                "name": "上海",
+                "type": "MUNICIPALITY",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Baoshan",
+                "code": "2029",
+                "name": "宝山区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Chongming",
+                "code": "2036",
+                "name": "崇明区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Fengxian",
+                "code": "2035",
+                "name": "奉贤区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Hongkou",
+                "code": "2026",
+                "name": "虹口区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Huangpu",
+                "code": "2019",
+                "name": "黄浦区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Jiading",
+                "code": "2030",
+                "name": "嘉定区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Jingan",
+                "code": "2023",
+                "name": "静安区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Jinshan",
+                "code": "2032",
+                "name": "金山区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Minxing",
+                "code": "2028",
+                "name": "闵行区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Pudongxin",
+                "code": "2031",
+                "name": "浦东新区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Putuo",
+                "code": "2024",
+                "name": "普陀区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Qingpu",
+                "code": "2034",
+                "name": "青浦区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Songjiang",
+                "code": "2033",
+                "name": "松江区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Xuhui",
+                "code": "2021",
+                "name": "徐汇区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Yangpu",
+                "code": "2027",
+                "name": "杨浦区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Changning",
+                "code": "2022",
+                "name": "长宁区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            }
+        ]
+    },
+    {
+        "en_name": "GUANGZHOU",
+        "code": "763",
+        "name": "广州",
+        "type": "CITY",
+        "delete": false,
+        "sublist": [
+            {
+                "en_name": "GUANGZHOU",
+                "code": "763",
+                "name": "广州",
+                "type": "CITY",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Baiyun",
+                "code": "2049",
+                "name": "白云区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Conghua",
+                "code": "2474",
+                "name": "从化区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Haizhu",
+                "code": "2046",
+                "name": "海珠区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Huadu",
+                "code": "2051",
+                "name": "花都区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Huangpu",
+                "code": "2050",
+                "name": "黄埔区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Liwan",
+                "code": "2047",
+                "name": "荔湾区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Luogang",
+                "code": "2053",
+                "name": "萝岗区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Nansha",
+                "code": "2054",
+                "name": "南沙区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Fanyu",
+                "code": "2052",
+                "name": "番禺区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Tianhe",
+                "code": "2048",
+                "name": "天河区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Yuexiu",
+                "code": "2045",
+                "name": "越秀区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Zengcheng",
+                "code": "2475",
+                "name": "增城区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            }
+        ]
+    },
+    {
+        "en_name": "SHENZHEN",
+        "code": "765",
+        "name": "深圳",
+        "type": "CITY",
+        "delete": false,
+        "sublist": [
+            {
+                "en_name": "SHENZHEN",
+                "code": "765",
+                "name": "深圳",
+                "type": "CITY",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Baoan",
+                "code": "2041",
+                "name": "宝安区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Dapeng",
+                "code": "2362",
+                "name": "大鹏新区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Futian",
+                "code": "2037",
+                "name": "福田区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Guangmingxin",
+                "code": "2044",
+                "name": "光明区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Longgang",
+                "code": "2042",
+                "name": "龙岗区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Longhua",
+                "code": "2361",
+                "name": "龙华区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Luohu",
+                "code": "2038",
+                "name": "罗湖区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Nanshan",
+                "code": "2039",
+                "name": "南山区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Pingshanxin",
+                "code": "2043",
+                "name": "坪山区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Yantian",
+                "code": "2040",
+                "name": "盐田区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            }
+        ]
+    },
+    {
+        "en_name": "TIANJIN",
+        "code": "531",
+        "name": "天津",
+        "type": "MUNICIPALITY",
+        "delete": false,
+        "sublist": [
+            {
+                "en_name": "TIANJIN",
+                "code": "531",
+                "name": "天津",
+                "type": "MUNICIPALITY",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Baodi",
+                "code": "2177",
+                "name": "宝坻区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Beichen",
+                "code": "2175",
+                "name": "北辰区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Binhaixin",
+                "code": "2171",
+                "name": "滨海新区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Dongli",
+                "code": "2172",
+                "name": "东丽区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Hebei",
+                "code": "2169",
+                "name": "河北区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Hedong",
+                "code": "2166",
+                "name": "河东区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Heping",
+                "code": "2165",
+                "name": "和平区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Hexi",
+                "code": "2167",
+                "name": "河西区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Hongqiao",
+                "code": "2170",
+                "name": "红桥区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Jinghai",
+                "code": "2178",
+                "name": "静海区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Jinnan",
+                "code": "2174",
+                "name": "津南区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Ji",
+                "code": "2180",
+                "name": "蓟州区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Nankai",
+                "code": "2168",
+                "name": "南开区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Ninghe",
+                "code": "2179",
+                "name": "宁河区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Wuqing",
+                "code": "2176",
+                "name": "武清区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Xiqing",
+                "code": "2173",
+                "name": "西青区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            }
+        ]
+    },
+    {
+        "en_name": "WUHAN",
+        "code": "736",
+        "name": "武汉",
+        "type": "CITY",
+        "delete": false,
+        "sublist": [
+            {
+                "en_name": "WUHAN",
+                "code": "736",
+                "name": "武汉",
+                "type": "CITY",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Caidian",
+                "code": "2064",
+                "name": "蔡甸区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Donghuxinqu",
+                "code": "2366",
+                "name": "东湖新技术开发区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Dongxihu",
+                "code": "2065",
+                "name": "东西湖区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Hannan",
+                "code": "2066",
+                "name": "汉南区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Hanyang",
+                "code": "2060",
+                "name": "汉阳区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Hongshan",
+                "code": "2063",
+                "name": "洪山区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Huangpo",
+                "code": "2068",
+                "name": "黄陂区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Jiangan",
+                "code": "2057",
+                "name": "江岸区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Jianghan",
+                "code": "2058",
+                "name": "江汉区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Jiangxia",
+                "code": "2067",
+                "name": "江夏区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Changkou",
+                "code": "2059",
+                "name": "硚口区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Qingshan",
+                "code": "2062",
+                "name": "青山区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Wuchang",
+                "code": "2061",
+                "name": "武昌区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Jingjikaifaqu",
+                "code": "2365",
+                "name": "武汉经济技术开发区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Wujiashan",
+                "code": "2367",
+                "name": "武汉吴家山经济技术开发区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Xinzhou",
+                "code": "2069",
+                "name": "新洲区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            }
+        ]
+    },
+    {
+        "en_name": "XIAN",
+        "code": "854",
+        "name": "西安",
+        "type": "CITY",
+        "delete": false,
+        "sublist": [
+            {
+                "en_name": "XIAN",
+                "code": "854",
+                "name": "西安",
+                "type": "CITY",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Baqiao",
+                "code": "2075",
+                "name": "灞桥区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Beilin",
+                "code": "2071",
+                "name": "碑林区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Chanba",
+                "code": "2371",
+                "name": "浐灞生态区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "fengweixin",
+                "code": "2083",
+                "name": "沣渭新区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Gaoling",
+                "code": "2082",
+                "name": "高陵区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Gaoxinkaifaqu",
+                "code": "2368",
+                "name": "高新技术产业开发区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Guojigangwu",
+                "code": "2374",
+                "name": "国际港务区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Hu",
+                "code": "2081",
+                "name": "鄠邑区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Jingjikaifaqu",
+                "code": "2369",
+                "name": "经济技术开发区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Lantian",
+                "code": "2079",
+                "name": "蓝田县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Lianhu",
+                "code": "2072",
+                "name": "莲湖区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Lintong",
+                "code": "2078",
+                "name": "临潼区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Qujiang",
+                "code": "2370",
+                "name": "曲江新区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Weibeigongyequ",
+                "code": "3278",
+                "name": "渭北工业区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Weiyang",
+                "code": "2074",
+                "name": "未央区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Minyonghangtian",
+                "code": "2373",
+                "name": "西安国家民用航天产业基地",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Xincheng",
+                "code": "2070",
+                "name": "新城区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Yanlianghangkong",
+                "code": "2372",
+                "name": "阎良国家航空高新技术产业基地",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Yanliang",
+                "code": "2077",
+                "name": "阎良区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Yanta",
+                "code": "2073",
+                "name": "雁塔区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Changan",
+                "code": "2076",
+                "name": "长安区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Zhouzhi",
+                "code": "2080",
+                "name": "周至县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            }
+        ]
+    },
+    {
+        "en_name": "CHENGDU",
+        "code": "801",
+        "name": "成都",
+        "type": "CITY",
+        "delete": false,
+        "sublist": [
+            {
+                "en_name": "CHENGDU",
+                "code": "801",
+                "name": "成都",
+                "type": "CITY",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "JIANYANG",
+                "code": "10201",
+                "name": "简阳市",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Chenghua",
+                "code": "2111",
+                "name": "成华区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Chongzhou",
+                "code": "2378",
+                "name": "崇州市",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Dayi",
+                "code": "2119",
+                "name": "大邑县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Dujiangyan",
+                "code": "2380",
+                "name": "都江堰市",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Gaoxinqu",
+                "code": "2381",
+                "name": "高新区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Gaoxinxiqu",
+                "code": "3301",
+                "name": "高新西区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Jinjiang",
+                "code": "2108",
+                "name": "锦江区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Jinniu",
+                "code": "2109",
+                "name": "金牛区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Jintang",
+                "code": "2118",
+                "name": "金堂县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Longquanyi",
+                "code": "2112",
+                "name": "龙泉驿区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Pengzhou",
+                "code": "2379",
+                "name": "彭州市",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "pi",
+                "code": "2117",
+                "name": "郫都区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Pujiang",
+                "code": "2120",
+                "name": "蒲江县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Qingbaijiang",
+                "code": "2113",
+                "name": "青白江区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Qingyang",
+                "code": "2107",
+                "name": "青羊区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Qionglai",
+                "code": "2377",
+                "name": "邛崃市",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Shuangliu",
+                "code": "2116",
+                "name": "双流区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Tianfuxinqu",
+                "code": "3300",
+                "name": "天府新区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Wenjiang",
+                "code": "2115",
+                "name": "温江区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Wuhou",
+                "code": "2110",
+                "name": "武侯区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Xindu",
+                "code": "2114",
+                "name": "新都区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Xinjin",
+                "code": "2121",
+                "name": "新津县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            }
+        ]
+    },
+    {
+        "en_name": "DALIAN",
+        "code": "600",
+        "name": "大连",
+        "type": "CITY",
+        "delete": false,
+        "sublist": [
+            {
+                "en_name": "DALIAN",
+                "code": "600",
+                "name": "大连",
+                "type": "CITY",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Changxing",
+                "code": "2398",
+                "name": "长兴岛",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Ganjingzi",
+                "code": "2184",
+                "name": "甘井子区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Gaoxinyuanqu",
+                "code": "2185",
+                "name": "高新园区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Jinzhou",
+                "code": "2188",
+                "name": "金州区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Kaifaqu",
+                "code": "2186",
+                "name": "开发区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Lvshunkou",
+                "code": "2187",
+                "name": "旅顺口区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Pulandian",
+                "code": "2394",
+                "name": "普兰店区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Shahekou",
+                "code": "2183",
+                "name": "沙河口区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Wafangdian",
+                "code": "2395",
+                "name": "瓦房店市",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Xigang",
+                "code": "2181",
+                "name": "西岗区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Changhai",
+                "code": "2397",
+                "name": "长海县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Zhongshan",
+                "code": "2182",
+                "name": "中山区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Zhuanghe",
+                "code": "2396",
+                "name": "庄河市",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            }
+        ]
+    },
+    {
+        "en_name": "CHANGCHUN",
+        "code": "613",
+        "name": "长春",
+        "type": "CITY",
+        "delete": false,
+        "sublist": [
+            {
+                "en_name": "CHANGCHUN",
+                "code": "613",
+                "name": "长春",
+                "type": "CITY",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "CHAOYANGQU",
+                "code": "2142",
+                "name": "朝阳区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Dehui",
+                "code": "2389",
+                "name": "德惠市",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Erdao",
+                "code": "2143",
+                "name": "二道区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Gaoxinkaifaqu",
+                "code": "2145",
+                "name": "高新开发区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Jingjikaifaqu",
+                "code": "2146",
+                "name": "经济开发区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Jiutai",
+                "code": "2388",
+                "name": "九台区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Kuancheng",
+                "code": "2141",
+                "name": "宽城区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Lvyuan",
+                "code": "2144",
+                "name": "绿园区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Nanguan",
+                "code": "2140",
+                "name": "南关区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Nongan",
+                "code": "2390",
+                "name": "农安县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Qichechanyekaifaqu",
+                "code": "2147",
+                "name": "汽车产业开发区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Shuangyang",
+                "code": "2148",
+                "name": "双阳区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Yushu",
+                "code": "2387",
+                "name": "榆树市",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            }
+        ]
+    },
+    {
+        "en_name": "SHENYANG",
+        "code": "599",
+        "name": "沈阳",
+        "type": "CITY",
+        "delete": false,
+        "sublist": [
+            {
+                "en_name": "SHENYANG",
+                "code": "599",
+                "name": "沈阳",
+                "type": "CITY",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Dadong",
+                "code": "2129",
+                "name": "大东区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "hunnan",
+                "code": "2132",
+                "name": "浑南区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Faku",
+                "code": "2386",
+                "name": "法库县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Heping",
+                "code": "2126",
+                "name": "和平区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Huanggu",
+                "code": "2128",
+                "name": "皇姑区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Jingjijishukaifaqu",
+                "code": "3033",
+                "name": "经济技术开发区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Kangping",
+                "code": "2385",
+                "name": "康平县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Liaozhong",
+                "code": "2384",
+                "name": "辽中区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Qipanshan",
+                "code": "2382",
+                "name": "棋盘山开发区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Shenbeixinqu",
+                "code": "2134",
+                "name": "沈北新区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Shenhe",
+                "code": "2127",
+                "name": "沈河区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Sujiatun",
+                "code": "2135",
+                "name": "苏家屯区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Tiexi",
+                "code": "2130",
+                "name": "铁西区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Xinmin",
+                "code": "2383",
+                "name": "新民市",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Yuhong",
+                "code": "2133",
+                "name": "于洪区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            }
+        ]
+    },
+    {
+        "en_name": "NANJING",
+        "code": "635",
+        "name": "南京",
+        "type": "CITY",
+        "delete": false,
+        "sublist": [
+            {
+                "en_name": "NANJING",
+                "code": "635",
+                "name": "南京",
+                "type": "CITY",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Gaochun",
+                "code": "2096",
+                "name": "高淳区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Gulou",
+                "code": "2088",
+                "name": "鼓楼区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Jiangning",
+                "code": "2094",
+                "name": "江宁区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "JianYe",
+                "code": "2087",
+                "name": "建邺区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Lishui",
+                "code": "2095",
+                "name": "溧水区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Liuhe",
+                "code": "2091",
+                "name": "六合区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Pukou",
+                "code": "2090",
+                "name": "浦口区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Qinhuai",
+                "code": "2086",
+                "name": "秦淮区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Qixia",
+                "code": "2092",
+                "name": "栖霞区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Xuanwu",
+                "code": "2084",
+                "name": "玄武区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Yuhuatai",
+                "code": "2093",
+                "name": "雨花台区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            }
+        ]
+    },
+    {
+        "en_name": "JINAN",
+        "code": "702",
+        "name": "济南",
+        "type": "CITY",
+        "delete": false,
+        "sublist": [
+            {
+                "en_name": "JINAN",
+                "code": "702",
+                "name": "济南",
+                "type": "CITY",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Gangcheng",
+                "code": "3808",
+                "name": "钢城区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Gaoxinqu",
+                "code": "2376",
+                "name": "高新区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Huaiyin",
+                "code": "2100",
+                "name": "槐荫区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Jiyang",
+                "code": "2104",
+                "name": "济阳区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Laicheng",
+                "code": "3807",
+                "name": "莱芜区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Licheng",
+                "code": "2101",
+                "name": "历城区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Lixia",
+                "code": "2098",
+                "name": "历下区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Pingyin",
+                "code": "2103",
+                "name": "平阴县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Shanghe",
+                "code": "2105",
+                "name": "商河县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Shizhong",
+                "code": "2097",
+                "name": "市中区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Tianqiao",
+                "code": "2099",
+                "name": "天桥区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Changqing",
+                "code": "2102",
+                "name": "长清区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Zhangqiu",
+                "code": "2471",
+                "name": "章丘区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            }
+        ]
+    },
+    {
+        "en_name": "QINGDAO",
+        "code": "703",
+        "name": "青岛",
+        "type": "CITY",
+        "delete": false,
+        "sublist": [
+            {
+                "en_name": "QINGDAO",
+                "code": "703",
+                "name": "青岛",
+                "type": "CITY",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Baoshuiqu",
+                "code": "2391",
+                "name": "保税区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Chengyang",
+                "code": "2159",
+                "name": "城阳区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Huangdao",
+                "code": "2157",
+                "name": "黄岛区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Jiaozhoushi",
+                "code": "2160",
+                "name": "胶州市",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Jimoshi",
+                "code": "2161",
+                "name": "即墨区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Laixishi",
+                "code": "2164",
+                "name": "莱西市",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Laoshan",
+                "code": "2158",
+                "name": "崂山区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Licang",
+                "code": "2156",
+                "name": "李沧区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Pingdushi",
+                "code": "2162",
+                "name": "平度市",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Chanyekaifaqu",
+                "code": "2393",
+                "name": "青岛高新技术产业开发区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Jingjikaifaqu",
+                "code": "2392",
+                "name": "青岛经济技术开发区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Shibei",
+                "code": "2154",
+                "name": "市北区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Shinan",
+                "code": "2153",
+                "name": "市南区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Xihaianxinqu",
+                "code": "3009",
+                "name": "西海岸新区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            }
+        ]
+    },
+    {
+        "en_name": "HANGZHOU",
+        "code": "653",
+        "name": "杭州",
+        "type": "CITY",
+        "delete": false,
+        "sublist": [
+            {
+                "en_name": "HANGZHOU",
+                "code": "653",
+                "name": "杭州",
+                "type": "CITY",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Binjiang",
+                "code": "2238",
+                "name": "滨江区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Chunan",
+                "code": "2242",
+                "name": "淳安县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Fuyang",
+                "code": "2478",
+                "name": "富阳区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Gongshu",
+                "code": "2236",
+                "name": "拱墅区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Jiande",
+                "code": "2409",
+                "name": "建德市",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Jianggan",
+                "code": "2235",
+                "name": "江干区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Linan",
+                "code": "2479",
+                "name": "临安区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Shangcheng",
+                "code": "2233",
+                "name": "上城区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Tonglu",
+                "code": "2241",
+                "name": "桐庐县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Xiacheng",
+                "code": "2234",
+                "name": "下城区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Xiaoshan",
+                "code": "2239",
+                "name": "萧山区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Xiasha",
+                "code": "2457",
+                "name": "下沙",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Xihu",
+                "code": "2237",
+                "name": "西湖区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Yuhang",
+                "code": "2240",
+                "name": "余杭区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            }
+        ]
+    },
+    {
+        "en_name": "SUZHOU",
+        "code": "639",
+        "name": "苏州",
+        "type": "CITY",
+        "delete": false,
+        "sublist": [
+            {
+                "en_name": "SUZHOU",
+                "code": "639",
+                "name": "苏州",
+                "type": "CITY",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "CHANGSHU",
+                "code": "650",
+                "name": "常熟市",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "KUNSHAN",
+                "code": "640",
+                "name": "昆山市",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "TAICANG",
+                "code": "911",
+                "name": "太仓市",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "ZHANGJIAGANG",
+                "code": "652",
+                "name": "张家港市",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Gaoxinqu",
+                "code": "2404",
+                "name": "高新区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Gongyeyuang",
+                "code": "2218",
+                "name": "工业园区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "GUSUQU",
+                "code": "2511",
+                "name": "姑苏区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Huqiu",
+                "code": "2215",
+                "name": "虎丘区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "WUJIANGQU",
+                "code": "2561",
+                "name": "吴江区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Wuzhong",
+                "code": "2216",
+                "name": "吴中区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Xiangcheng",
+                "code": "2217",
+                "name": "相城区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            }
+        ]
+    },
+    {
+        "en_name": "WUXI",
+        "code": "636",
+        "name": "无锡",
+        "type": "CITY",
+        "delete": false,
+        "sublist": [
+            {
+                "en_name": "WUXI",
+                "code": "636",
+                "name": "无锡",
+                "type": "CITY",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "LIANGXIQU",
+                "code": "104016",
+                "name": "梁溪区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "BINHUQU",
+                "code": "2517",
+                "name": "滨湖区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "HUISHANQU",
+                "code": "2519",
+                "name": "惠山区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "JIANGYINSHI",
+                "code": "2512",
+                "name": "江阴市",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "WUXIXINQU",
+                "code": "2518",
+                "name": "新吴区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "XISHANQU",
+                "code": "2520",
+                "name": "锡山区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "YIXINGSHI",
+                "code": "2513",
+                "name": "宜兴市",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            }
+        ]
+    },
+    {
+        "en_name": "NINGBO",
+        "code": "654",
+        "name": "宁波",
+        "type": "CITY",
+        "delete": false,
+        "sublist": [
+            {
+                "en_name": "NINGBO",
+                "code": "654",
+                "name": "宁波",
+                "type": "CITY",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Beilunqu",
+                "code": "3006",
+                "name": "北仑区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Cixishi",
+                "code": "3370",
+                "name": "慈溪市",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Fenghuaqu",
+                "code": "3001",
+                "name": "奉化区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Gaoxinqu",
+                "code": "3008",
+                "name": "高新区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Haishuqu",
+                "code": "3003",
+                "name": "海曙区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Jiangbeiqu",
+                "code": "3005",
+                "name": "江北区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Ninghaixian",
+                "code": "3372",
+                "name": "宁海县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Xiangshanxian",
+                "code": "3373",
+                "name": "象山县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Yinzhouqu",
+                "code": "3002",
+                "name": "鄞州区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Yuyaoshi",
+                "code": "3371",
+                "name": "余姚市",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Zhenhaiqu",
+                "code": "3007",
+                "name": "镇海区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            }
+        ]
+    },
+    {
+        "en_name": "CHONGQING",
+        "code": "551",
+        "name": "重庆",
+        "type": "MUNICIPALITY",
+        "delete": false,
+        "sublist": [
+            {
+                "en_name": "CHONGQING",
+                "code": "551",
+                "name": "重庆",
+                "type": "MUNICIPALITY",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Banan",
+                "code": "2319",
+                "name": "巴南区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Beibei",
+                "code": "2320",
+                "name": "北碚区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Beibuxin",
+                "code": "2360",
+                "name": "北部新区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Bishan",
+                "code": "2333",
+                "name": "璧山区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Chengkou",
+                "code": "2346",
+                "name": "城口县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Dadukou",
+                "code": "2317",
+                "name": "大渡口区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Dazu",
+                "code": "2332",
+                "name": "大足区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Dianjiang",
+                "code": "2341",
+                "name": "垫江县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Fengdu",
+                "code": "2342",
+                "name": "丰都县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Fengjie",
+                "code": "2343",
+                "name": "奉节县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Fuling",
+                "code": "2324",
+                "name": "涪陵区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Hechuan",
+                "code": "2327",
+                "name": "合川区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Jiangbei",
+                "code": "2313",
+                "name": "江北区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Jiangjin",
+                "code": "2326",
+                "name": "江津区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Jiulongpo",
+                "code": "2316",
+                "name": "九龙坡区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Kai",
+                "code": "2338",
+                "name": "开州区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Liangping",
+                "code": "2340",
+                "name": "梁平区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Nanan",
+                "code": "2314",
+                "name": "南岸区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Nanchuan",
+                "code": "2330",
+                "name": "南川区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Pengshui",
+                "code": "2436",
+                "name": "彭水苗族土家族自治县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Qianjiang",
+                "code": "2322",
+                "name": "黔江区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Qijiang",
+                "code": "2336",
+                "name": "綦江区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Rongchang",
+                "code": "2331",
+                "name": "荣昌区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Shapingba",
+                "code": "2315",
+                "name": "沙坪坝区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Shizhu",
+                "code": "2433",
+                "name": "石柱土家族自治县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Shuangqiao",
+                "code": "2328",
+                "name": "双桥区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Tongliang",
+                "code": "2334",
+                "name": "铜梁区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Tongnan",
+                "code": "2335",
+                "name": "潼南区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Wansheng",
+                "code": "2329",
+                "name": "万盛区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Wanzhou",
+                "code": "2321",
+                "name": "万州区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Wulong",
+                "code": "2347",
+                "name": "武隆区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Wushan",
+                "code": "2344",
+                "name": "巫山县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Wuxi",
+                "code": "2345",
+                "name": "巫溪县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Xiushan",
+                "code": "2434",
+                "name": "秀山土家族苗族自治县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Yongchuan",
+                "code": "2323",
+                "name": "永川区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Youyang",
+                "code": "2435",
+                "name": "酉阳土家族苗族自治县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Yubei",
+                "code": "2318",
+                "name": "渝北区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Yunyang",
+                "code": "2339",
+                "name": "云阳县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Yuzhong",
+                "code": "2312",
+                "name": "渝中区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Changshou",
+                "code": "2325",
+                "name": "长寿区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Zhong",
+                "code": "2337",
+                "name": "忠县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            }
+        ]
+    },
+    {
+        "en_name": "ZHENGZHOU",
+        "code": "719",
+        "name": "郑州",
+        "type": "CITY",
+        "delete": false,
+        "sublist": [
+            {
+                "en_name": "ZHENGZHOU",
+                "code": "719",
+                "name": "郑州",
+                "type": "CITY",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Dengfeng",
+                "code": "2400",
+                "name": "登封市",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Erqi",
+                "code": "2195",
+                "name": "二七区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Gaoxin",
+                "code": "2204",
+                "name": "高新区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Gongyi",
+                "code": "2444",
+                "name": "巩义市",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Guancheng",
+                "code": "2196",
+                "name": "管城回族区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Hangkonggangqu",
+                "code": "2445",
+                "name": "航空港区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Huiji",
+                "code": "2198",
+                "name": "惠济区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Jingkai",
+                "code": "2203",
+                "name": "经开区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Jinshui",
+                "code": "2197",
+                "name": "金水区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Shangjie",
+                "code": "2205",
+                "name": "上街区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Xinmei",
+                "code": "2401",
+                "name": "新密市",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Xinzheng",
+                "code": "2399",
+                "name": "新郑市",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Xingyang",
+                "code": "2402",
+                "name": "荥阳市",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Zhengdongxin",
+                "code": "2199",
+                "name": "郑东新区 ",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Zhongmu",
+                "code": "2403",
+                "name": "中牟县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Zhongyuan",
+                "code": "2194",
+                "name": "中原区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            }
+        ]
+    },
+    {
+        "en_name": "CHANGSHA",
+        "code": "749",
+        "name": "长沙",
+        "type": "CITY",
+        "delete": false,
+        "sublist": [
+            {
+                "en_name": "CHANGSHA",
+                "code": "749",
+                "name": "长沙",
+                "type": "CITY",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Furong",
+                "code": "2224",
+                "name": "芙蓉区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Kaifu",
+                "code": "2227",
+                "name": "开福区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Liuyang",
+                "code": "2408",
+                "name": "浏阳市",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Ningxiang",
+                "code": "2407",
+                "name": "宁乡市",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Tianxin",
+                "code": "2225",
+                "name": "天心区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Wangcheng",
+                "code": "2405",
+                "name": "望城区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Yuelu",
+                "code": "2226",
+                "name": "岳麓区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Yuhua",
+                "code": "2228",
+                "name": "雨花区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Changsha",
+                "code": "2406",
+                "name": "长沙县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            }
+        ]
+    },
+    {
+        "en_name": "FUZHOU",
+        "code": "681",
+        "name": "福州",
+        "type": "CITY",
+        "delete": false,
+        "sublist": [
+            {
+                "en_name": "FUZHOU",
+                "code": "681",
+                "name": "福州",
+                "type": "CITY",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Cangshan",
+                "code": "2253",
+                "name": "仓山区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "FUQING",
+                "code": "2473",
+                "name": "福清市",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Gulou",
+                "code": "2251",
+                "name": "鼓楼区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Jinan",
+                "code": "2255",
+                "name": "晋安区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Lianjiang",
+                "code": "2258",
+                "name": "连江县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Luoyuan",
+                "code": "2257",
+                "name": "罗源县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Mawei",
+                "code": "2254",
+                "name": "马尾区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Minhou",
+                "code": "2256",
+                "name": "闽侯县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Minqing",
+                "code": "2260",
+                "name": "闽清县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Pingtan",
+                "code": "2261",
+                "name": "平潭县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Taijiang",
+                "code": "2252",
+                "name": "台江区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Yongtai",
+                "code": "2259",
+                "name": "永泰县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "CHANGLE",
+                "code": "2472",
+                "name": "长乐区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            }
+        ]
+    },
+    {
+        "en_name": "XIAMEN",
+        "code": "682",
+        "name": "厦门",
+        "type": "CITY",
+        "delete": false,
+        "sublist": [
+            {
+                "en_name": "XIAMEN",
+                "code": "682",
+                "name": "厦门",
+                "type": "CITY",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Haicang",
+                "code": "2267",
+                "name": "海沧区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Huli",
+                "code": "2265",
+                "name": "湖里区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Jimei",
+                "code": "2266",
+                "name": "集美区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Siming",
+                "code": "2264",
+                "name": "思明区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Tongan",
+                "code": "2268",
+                "name": "同安区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Xiangan",
+                "code": "2269",
+                "name": "翔安区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            }
+        ]
+    },
+    {
+        "en_name": "HAERBIN",
+        "code": "622",
+        "name": "哈尔滨",
+        "type": "CITY",
+        "delete": false,
+        "sublist": [
+            {
+                "en_name": "HAERBIN",
+                "code": "622",
+                "name": "哈尔滨",
+                "type": "CITY",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "SHANGZHI",
+                "code": "10160",
+                "name": "尚志市",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "SHUANGCHENG",
+                "code": "10159",
+                "name": "双城区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Acheng",
+                "code": "2277",
+                "name": "阿城区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Bayan",
+                "code": "2429",
+                "name": "巴彦县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Binxian",
+                "code": "2428",
+                "name": "宾县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Daoli",
+                "code": "2271",
+                "name": "道里区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Daowai",
+                "code": "2272",
+                "name": "道外区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Fangzheng",
+                "code": "2426",
+                "name": "方正县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Hulan",
+                "code": "2276",
+                "name": "呼兰区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Mulan",
+                "code": "2430",
+                "name": "木兰县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Nangang",
+                "code": "2270",
+                "name": "南岗区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Pingfang",
+                "code": "2275",
+                "name": "平房区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Songbei",
+                "code": "2274",
+                "name": "松北区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Tonghe",
+                "code": "2431",
+                "name": "通河县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Wuchang",
+                "code": "2424",
+                "name": "五常市",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Xiangfang",
+                "code": "2273",
+                "name": "香坊区",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Yanshou",
+                "code": "2432",
+                "name": "延寿县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            },
+            {
+                "en_name": "Yilan",
+                "code": "2427",
+                "name": "依兰县",
+                "type": "DISTRICT",
+                "delete": false,
+                "sublist": []
+            }
+        ]
+    }
+]
