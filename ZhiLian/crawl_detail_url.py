@@ -5,9 +5,9 @@ import pandas as pd
 from box import Box
 import json
 from pprint import pprint
+import os
 
-
-
+# 获取一个网页的详细信息（最详细的！）
 def get_detail_msg(url, headers):
 
     result_dict = {}
@@ -19,9 +19,19 @@ def get_detail_msg(url, headers):
     result = obj.findall(resp.text)[0]
     # print(result)
     job = Box(json.loads(result))
+
+    # 增加一段代码，用于保存生成的JSON文件
+    default_save_folder = r'AllDetailMsg'
+    if not os.path.exists(default_save_folder):
+        os.makedirs(default_save_folder)
+    
     # 获取职业号码
     jobNumber = job.jobNumber
     result_dict['jobNumber'] = jobNumber
+
+    # 使用工作ID命名，因为是唯一的
+    job.to_json(f'{default_save_folder}/{jobNumber}.json')
+
     # 职位的详细信息
     jobDetail = job.jobInfo.jobDetail
 
@@ -42,6 +52,9 @@ def get_detail_msg(url, headers):
     result_dict['industryLevel'] = industryLevel
     company_url = jobDetail.detailedCompany.url # 公司网址
     result_dict['company_url'] = company_url
+    # 雇佣类型
+    result_dict['bestEmployerType'] = jobDetail.detailedCompany.bestEmployerType
+
 
     # ---------------职业的详细信息---------------------
     positionName = jobDetail.detailedPosition.positionName # 职位名称
@@ -57,6 +70,7 @@ def get_detail_msg(url, headers):
     result_dict['skillLabel'] = skillLabel
     jobDesc = jobDetail.detailedPosition.jobDesc # TODO 包含一些div之类的标签，需要处理
     result_dict['jobDesc'] = jobDesc
+    # 工作地点
     workAddress = jobDetail.detailedPosition.workAddress
     result_dict['workAddress'] = workAddress
     latitude = jobDetail.detailedPosition.latitude
@@ -73,8 +87,13 @@ def get_detail_msg(url, headers):
     result_dict['salary60'] = salary60
     positionWorkingExp = jobDetail.detailedPosition.positionWorkingExp
     result_dict['positionWorkingExp'] = positionWorkingExp
+    # 工作地点Id
+    positionCityId = jobDetail.detailedPosition.positionCityId
+    result_dict['positionCityId'] = positionCityId
+
     positionWorkCity = jobDetail.detailedPosition.positionWorkCity
     result_dict['positionWorkCity'] = positionWorkCity
+
     jobTypeLevelName = jobDetail.detailedPosition.jobTypeLevelName
     result_dict['jobTypeLevelName'] = jobTypeLevelName
     subJobTypeLevel = jobDetail.detailedPosition.subJobTypeLevel
@@ -82,9 +101,16 @@ def get_detail_msg(url, headers):
     salaryReal = jobDetail.detailedPosition.salaryReal
     result_dict['salaryReal'] = salaryReal
 
+    subJobType = jobDetail.detailedPosition.subJobType
+    result_dict['subJobType'] = subJobType
+    positionStatus = jobDetail.detailedPosition.positionStatus
+    result_dict['positionStatus'] = positionStatus
+    positionNumber = jobDetail.detailedPosition.positionNumber
+    result_dict['positionNumber'] = positionNumber
+    positionCityDistrict = jobDetail.detailedPosition.positionCityDistrict
+    result_dict['positionCityDistrict'] = positionCityDistrict
+
     return result_dict
-
-
 
 
 if __name__ == "__main__":

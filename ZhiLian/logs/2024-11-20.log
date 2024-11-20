@@ -1,0 +1,10 @@
+2024-11-20 13:25:43 - crawl_logger - INFO - ----------------------一个类别爬取的分割线------------------------
+2024-11-20 13:25:43 - crawl_logger - INFO - Career: Java开发, cityId: 530, url: https://www.zhaopin.com/sou/jl530/kw01500O80EO062NO0AF8G
+2024-11-20 13:25:46 - crawl_logger - INFO - page1 is successed!
+2024-11-20 13:25:48 - crawl_logger - INFO - page2 is successed!
+2024-11-20 13:26:09 - crawl_logger - ERROR - page3 can not get
+2024-11-20 13:26:18 - crawl_logger - ERROR - page4 can not get
+2024-11-20 13:26:19 - crawl_logger - ERROR - page5 can not get
+2024-11-20 13:26:20 - crawl_logger - ERROR - page6 can not get
+2024-11-20 13:26:20 - crawl_logger - ERROR - page7 can not get
+2024-11-20 13:26:23 - crawl_logger - ERROR - page8 can not get
