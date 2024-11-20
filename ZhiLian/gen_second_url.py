@@ -30,5 +30,3 @@ all_url['城市编码'] = city_codes
 all_url['url'] = urls
 
 all_url.to_excel("八个城市的二级目标职位链接.xlsx", index=None)
-
-

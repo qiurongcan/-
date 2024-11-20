@@ -1,10 +1,43 @@
-2024-11-20 13:25:43 - crawl_logger - INFO - ----------------------一个类别爬取的分割线------------------------
-2024-11-20 13:25:43 - crawl_logger - INFO - Career: Java开发, cityId: 530, url: https://www.zhaopin.com/sou/jl530/kw01500O80EO062NO0AF8G
-2024-11-20 13:25:46 - crawl_logger - INFO - page1 is successed!
-2024-11-20 13:25:48 - crawl_logger - INFO - page2 is successed!
-2024-11-20 13:26:09 - crawl_logger - ERROR - page3 can not get
-2024-11-20 13:26:18 - crawl_logger - ERROR - page4 can not get
-2024-11-20 13:26:19 - crawl_logger - ERROR - page5 can not get
-2024-11-20 13:26:20 - crawl_logger - ERROR - page6 can not get
-2024-11-20 13:26:20 - crawl_logger - ERROR - page7 can not get
-2024-11-20 13:26:23 - crawl_logger - ERROR - page8 can not get
+2024-11-20 23:26:42 - crawl_logger - INFO - ----------------------一个类别爬取的分割线------------------------
+2024-11-20 23:26:42 - crawl_logger - INFO - Career: Java开发, cityId: 530, url: https://www.zhaopin.com/sou/jl530/kw01500O80EO062NO0AF8G
+2024-11-20 23:26:42 - crawl_logger - INFO - page1 is successed!
+2024-11-20 23:26:45 - crawl_logger - INFO - page2 is successed!
+2024-11-20 23:26:49 - crawl_logger - INFO - ----------------------一个类别爬取的分割线------------------------
+2024-11-20 23:26:49 - crawl_logger - INFO - Career: Java开发, cityId: 538, url: https://www.zhaopin.com/sou/jl538/kw01500O80EO062NO0AF8G
+2024-11-20 23:26:50 - crawl_logger - INFO - page1 is successed!
+2024-11-20 23:26:52 - crawl_logger - INFO - page2 is successed!
+2024-11-20 23:26:56 - crawl_logger - INFO - ----------------------一个类别爬取的分割线------------------------
+2024-11-20 23:26:56 - crawl_logger - INFO - Career: Java开发, cityId: 763, url: https://www.zhaopin.com/sou/jl763/kw01500O80EO062NO0AF8G
+2024-11-20 23:26:57 - crawl_logger - INFO - page1 is successed!
+2024-11-20 23:26:59 - crawl_logger - INFO - page2 is successed!
+2024-11-20 23:27:03 - crawl_logger - INFO - ----------------------一个类别爬取的分割线------------------------
+2024-11-20 23:27:03 - crawl_logger - INFO - Career: Java开发, cityId: 531, url: https://www.zhaopin.com/sou/jl531/kw01500O80EO062NO0AF8G
+2024-11-20 23:27:04 - crawl_logger - INFO - page1 is successed!
+2024-11-20 23:27:07 - crawl_logger - INFO - page2 is successed!
+2024-11-20 23:30:40 - crawl_logger - INFO - ----------------------一个类别爬取的分割线------------------------
+2024-11-20 23:30:40 - crawl_logger - INFO - Career: Java开发, cityId: 530, url: https://www.zhaopin.com/sou/jl530/kw01500O80EO062NO0AF8G
+2024-11-20 23:30:41 - crawl_logger - INFO - page1 is successed!
+2024-11-20 23:30:43 - crawl_logger - INFO - page2 is successed!
+2024-11-20 23:30:47 - crawl_logger - INFO - ----------------------一个类别爬取的分割线------------------------
+2024-11-20 23:30:47 - crawl_logger - INFO - Career: Java开发, cityId: 538, url: https://www.zhaopin.com/sou/jl538/kw01500O80EO062NO0AF8G
+2024-11-20 23:30:48 - crawl_logger - INFO - page1 is successed!
+2024-11-20 23:30:50 - crawl_logger - INFO - page2 is successed!
+2024-11-20 23:30:54 - crawl_logger - INFO - ----------------------一个类别爬取的分割线------------------------
+2024-11-20 23:30:54 - crawl_logger - INFO - Career: Java开发, cityId: 763, url: https://www.zhaopin.com/sou/jl763/kw01500O80EO062NO0AF8G
+2024-11-20 23:30:55 - crawl_logger - INFO - page1 is successed!
+2024-11-20 23:30:57 - crawl_logger - INFO - page2 is successed!
+2024-11-20 23:31:25 - crawl_logger - INFO - ----------------------一个类别爬取的分割线------------------------
+2024-11-20 23:31:25 - crawl_logger - INFO - Career: Java开发, cityId: 530, url: https://www.zhaopin.com/sou/jl530/kw01500O80EO062NO0AF8G
+2024-11-20 23:31:26 - crawl_logger - INFO - page1 is successed!
+2024-11-20 23:31:28 - crawl_logger - INFO - page2 is successed!
+2024-11-20 23:31:32 - crawl_logger - INFO - ----------------------一个类别爬取的分割线------------------------
+2024-11-20 23:31:32 - crawl_logger - INFO - Career: Java开发, cityId: 538, url: https://www.zhaopin.com/sou/jl538/kw01500O80EO062NO0AF8G
+2024-11-20 23:31:33 - crawl_logger - INFO - page1 is successed!
+2024-11-20 23:31:36 - crawl_logger - INFO - page2 is successed!
+2024-11-20 23:31:40 - crawl_logger - INFO - ----------------------一个类别爬取的分割线------------------------
+2024-11-20 23:31:40 - crawl_logger - INFO - Career: Java开发, cityId: 763, url: https://www.zhaopin.com/sou/jl763/kw01500O80EO062NO0AF8G
+2024-11-20 23:31:40 - crawl_logger - INFO - page1 is successed!
+2024-11-20 23:31:43 - crawl_logger - INFO - page2 is successed!
+2024-11-20 23:42:29 - crawl_logger - INFO - ----------------------一个类别爬取的分割线------------------------
+2024-11-20 23:42:29 - crawl_logger - INFO - Career: Java开发, cityId: 530, url: https://www.zhaopin.com/sou/jl530/kw01500O80EO062NO0AF8G
+2024-11-20 23:42:30 - crawl_logger - INFO - page1 is successed!

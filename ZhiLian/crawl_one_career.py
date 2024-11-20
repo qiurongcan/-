@@ -24,22 +24,23 @@ def get_career_details(url, headers):
         cardCustomJson = job.cardCustomJson
         job_dict['cardCustomJson'].append(cardCustomJson)
         # 2.
-        cityDistrict = job.cityDistrict
-        job_dict['cityDistrict'].append(cityDistrict)
+        # cityDistrict = job.cityDistrict
+        # job_dict['cityDistrict'].append(cityDistrict)
         companyName = job.companyName
         job_dict['companyName'].append(companyName)
         companyNumber = job.companyNumber
         job_dict['companyNumber'].append(companyNumber)
         companySize = job.companySize
         education = job.education
+        job_dict['education'].append(education)
         job_dict['companySize'].append(companySize)
         # 上市阶段情况，code并不一定有
         # financingStage_code = job.financingStage.code
         # financingStage_name = job.financingStage.name
         firstPublishTime = job.firstPublishTime
         job_dict['firstPublishTime'].append(firstPublishTime)
-        industryName = job.industryName
-        job_dict['industryName'].append(industryName)
+        # industryName = job.industryName
+        # job_dict['industryName'].append(industryName)
         jobId = job.jobId
         job_dict['jobId'].append(jobId)
         jobKnowledgeWelfareFeatures = job.jobKnowledgeWelfareFeatures
@@ -56,8 +57,8 @@ def get_career_details(url, headers):
         job_dict['job_number'].append(job_number)
         positionURL = job.positionURL
         job_dict['positionURL'].append(positionURL)
-        property = job.property
-        job_dict['property'].append(property)
+        # property = job.property
+        # job_dict['property'].append(property)
         salary60 = job.salary60
         job_dict['salary60'].append(salary60)
         salaryReal = job.salaryReal
@@ -73,7 +74,7 @@ def get_career_details(url, headers):
 
 
     # pprint(json_data)
-    return job_dict
+    return job_dict, json_data
 
 
 
@@ -88,7 +89,7 @@ if __name__ == "__main__":
     }
 
     # 不登陆只有5页，登陆了可以看到全部的
-    job_dict = get_career_details(url=url, headers=headers)
+    job_dict, _ = get_career_details(url=url, headers=headers)
 
     df = pd.DataFrame(job_dict)
 
