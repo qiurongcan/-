@@ -1,0 +1,153 @@
+{
+    "jobNumber": "CC649781480J40460244505",
+    "jobInfo": {
+        "jobSummary": {},
+        "jobDetail": {
+            "detailedCompany": {
+                "abroadFlag": 2,
+                "abroadTipInfo": {
+                    "abroadTips": [],
+                    "icon": "",
+                    "title": ""
+                },
+                "abroadLabel": "",
+                "auditNature": null,
+                "companyLogo": "https://storage-public.zhaopin.cn/user/avatar/1609815975210976330/1111111111.png",
+                "videoUrl": "",
+                "financingStageName": "未融资",
+                "companyRootId": 64978148,
+                "companyName": "东华医为科技有限公司",
+                "companyShotName": "东华医为科技有限公司",
+                "kgDisplayShortName": "",
+                "companyNumber": "CZ649781480",
+                "menVipUrl": "",
+                "menVipLevel": 0,
+                "industryNameLevel": "IT服务,IT服务",
+                "companySize": "1000-9999人",
+                "companyDescription": "东华医为科技有限公司（简称东华医为）成立于2012年5月，注册资金5000万，是东华软件股份公司旗下专业服务医疗、卫生等大健康领域IT业务的全资子公司。东华医为现有员工2000余人，其中技术人员占比达到90%，拥有近100项大健康类自主知识产权的软件产品，所覆盖的大健康领域有医疗机构、卫生管理机构、互联网医疗、人工智能、大数据、健康管理等，所涉及的主要业务有IT咨询规划、方案设计、系统集成、软件开发与交付、工程实施与交付、人才培养、售后运维、合作运营等。东华医为现为全国500余家大健康领域的各类用户提供着持续的技术服务，还连续多年蝉联中国十佳医疗行业解决方案商榜首。传承了东华软件医疗卫生事业部近二十年IT业务的东华医为，在高速发展的大健康领域，笃定能大有作为。",
+                "companyUrl": "http://company.zhaopin.com/CZ649781480.htm",
+                "bestEmployerType": 2,
+                "bestEmployerLabel": [],
+                "industryLevel": "IT服务,IT服务",
+                "url": "http://www.zhaopin.com/companydetail/CZ649781480.htm"
+            },
+            "detailedPosition": {
+                "welfareLabel": [],
+                "workType": "全职",
+                "tradingArea": "",
+                "subJobType": "2040",
+                "positionStatus": 3,
+                "skillLabel": [{
+                    "state": 0,
+                    "value": "Spring"
+                }, {
+                    "state": 0,
+                    "value": "SpringBoot"
+                }, {
+                    "state": 0,
+                    "value": "SpringMVC"
+                }, {
+                    "state": 0,
+                    "value": "Vue"
+                }, {
+                    "state": 0,
+                    "value": "全栈开发"
+                }],
+                "jobDesc": "<div> 任职资格：</div><div> 1、本科及以上学历，一本以上院校毕业；</div><div> 2、熟练 Java 语言，熟悉 Springboot、SpringMVC、SpringCloud、dubbo、MyBatis等主流 Java 开源框架和类库，熟悉面向对象设计基本原则；</div><div> 3、2年及以上java开发经验，能独立完成相关功能模块设计开发，数据接口编写等开发工作；</div><div> 4、熟悉oracle,mysql等主流数据库。</div><div> 5、熟悉html,jquery,vue等前端技术。</div><div> 6、良好的组织与沟通协调能力，较强的学习能力，积极主动。</div><div> <br></div><div> <div>  岗位职责： </div> <div>  1、深入理解业务需求，提供高效的编码实现方案； </div> <div>  2、根据产品功能模块设计，编码实现各模块功能，并确保开发质量； </div> <div>  3、根据任务安排研发 </div></div><div> <br></div><div> 职位福利：五险一金、周末双休、节日福利</div>",
+                "workAddress": "海泰信息广场B座1206",
+                "latitude": "39.097029",
+                "longitude": "117.124032",
+                "positionPublishTime": "2024-11-19 00:24:20",
+                "education": "本科",
+                "positionUrl": "http://jobs.zhaopin.com/CC649781480J40460244505.htm",
+                "applyType": "1",
+                "salary60": "7千-1.2万",
+                "positionWorkingExp": "1-3年",
+                "positionCityId": "531",
+                "positionWorkCity": "天津",
+                "recruitNumber": 2,
+                "salaryCount": "",
+                "performanceBonus": "",
+                "positionNumber": "CC649781480J40460244505",
+                "positionName": "java开发工程师",
+                "positionCityDistrict": "西青区",
+                "positionCommercialLabel": [],
+                "chatWindow": 1,
+                "hasAppliedPosition": false,
+                "positionHighlight": "",
+                "jobTypeLevelName": "软件研发",
+                "subJobTypeLevel": "9000300110000",
+                "rpoProxied": false,
+                "rpoProxy": false,
+                "rpoProxyDisplayOrgName": "",
+                "salaryType": 1,
+                "salaryReal": "7001-12000",
+                "internshipMonths": 0,
+                "weeklyInternshipDays": 0,
+                "canBeRegular": false,
+                "provideInternshipCertificate": false,
+                "canRemoteInternship": false,
+                "positionSourceType": 1,
+                "deliveryPath": "https://campus1.zhaopin.com/Resume/CheckIntoApp?pid=CC649781480J40460244505",
+                "onlineCarFlag": 2,
+                "onlineCarInfo": [],
+                "futureJob": false,
+                "futureJobUrl": "",
+                "bestEmployerType": 2,
+                "bestEmployerLabel": [],
+                "companyRootId": 64978148,
+                "companyName": "东华医为科技有限公司",
+                "companyNumber": "CZ649781480",
+                "menVipUrl": "",
+                "menVipLevel": 0,
+                "jobDescPC": "<div> 任职资格：</div><div> 1、本科及以上学历，一本以上院校毕业；</div><div> 2、熟练 Java 语言，熟悉 Springboot、SpringMVC、SpringCloud、dubbo、MyBatis等主流 Java 开源框架和类库，熟悉面向对象设计基本原则；</div><div> 3、2年及以上java开发经验，能独立完成相关功能模块设计开发，数据接口编写等开发工作；</div><div> 4、熟悉oracle,mysql等主流数据库。</div><div> 5、熟悉html,jquery,vue等前端技术。</div><div> 6、良好的组织与沟通协调能力，较强的学习能力，积极主动。</div><div> <br></div><div> <div>  岗位职责： </div> <div>  1、深入理解业务需求，提供高效的编码实现方案； </div> <div>  2、根据产品功能模块设计，编码实现各模块功能，并确保开发质量； </div> <div>  3、根据任务安排研发 </div></div><div> <br></div><div> 职位福利：五险一金、周末双休、节日福利</div>",
+                "emplType": "全职",
+                "jobStatus": 3,
+                "publishTime": "2024-11-19 00:24:20",
+                "workingExp": "1-3年",
+                "cityId": "531",
+                "workCity": "天津",
+                "number": "CC649781480J40460244505",
+                "name": "java开发工程师",
+                "cityDistrict": "西青区",
+                "staff": {
+                    "auditNaturePrompt": null,
+                    "authenticationState": 1,
+                    "avatar": "https://rd5-public.zhaopin.cn/imgs/avatar_m3.png",
+                    "companyName": "",
+                    "goldMedalInterviewer": {
+                        "goldMedalInterviewer": false,
+                        "interviewerImageUrl": "",
+                        "interviewerTitle": ""
+                    },
+                    "greeting": "",
+                    "greetingHasDelivery": "",
+                    "hrJob": "人事经理",
+                    "hrOnlineIocState": 0,
+                    "hrOnlineState": "三日内活跃",
+                    "hrResumeOperationState": "",
+                    "hrStateInfo": "",
+                    "id": 1168925954,
+                    "lastOnlineTime": 1731888716384,
+                    "lastOnlineTimeText": "",
+                    "modularState": 1,
+                    "other": null,
+                    "staffName": "杨鹏",
+                    "teamList": [],
+                    "state": 1
+                },
+                "url": "//www.zhaopin.com/tianjin/",
+                "emailListPc": "http://jobs.zhaopin.com/CC649781480J40460244505.htm",
+                "entryModel": {
+                    "companyAddress": "",
+                    "companyImage": "",
+                    "companyName": "",
+                    "companySize": "",
+                    "entryCompanyTitle": "",
+                    "state": 0
+                }
+            },
+            "taskId": "353a7f896dc84f80ae5f3ebff9fb1780"
+        }
+    }
+}
