@@ -39,9 +39,10 @@ def get_all_urls(file_path, headers):
     df = pd.read_excel(file_path)
 
     result_df = pd.DataFrame()
-
-    with tqdm(total=len(df.index), desc="Crawl Process") as phar:
-        for i in range(len(df.index)):
+    
+    # 只抓取前面的128个数据即可 
+    with tqdm(total=128, desc="Crawl Process") as phar:
+        for i in range(128):
             
             career = df.iloc[i, 0]
             cityId = df.iloc[i, 1]
@@ -75,7 +76,7 @@ def get_all_urls(file_path, headers):
             
 
 
-            result_df.to_excel(r'两页所有职位链接测试.xlsx', index=None)
+            result_df.to_excel(r'所有职位链接测试3.xlsx', index=None)
             
             phar.update(1)
 

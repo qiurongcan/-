@@ -39,8 +39,8 @@ def get_career_details(url, headers):
         # financingStage_name = job.financingStage.name
         firstPublishTime = job.firstPublishTime
         job_dict['firstPublishTime'].append(firstPublishTime)
-        # industryName = job.industryName
-        # job_dict['industryName'].append(industryName)
+        industryName = job.industryName
+        job_dict['industryName'].append(industryName)
         jobId = job.jobId
         job_dict['jobId'].append(jobId)
         jobKnowledgeWelfareFeatures = job.jobKnowledgeWelfareFeatures
